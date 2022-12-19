@@ -3,6 +3,7 @@ $RECYCLE.BIN/
 **/build/
 .aws-sam/
 .cdk.staging/
+.idea/
 .idea/**/dataSources/
 .idea/sonarlint/
 .idea_modules/
